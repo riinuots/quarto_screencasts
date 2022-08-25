@@ -1,0 +1,20 @@
+---
+title: "Penguins"
+execute:
+  echo: false
+  warning: false
+---
+
+This is a new page I've just added.
+
+```{r}
+library(tidyverse)
+library(palmerpenguins)
+
+penguins %>% 
+  ggplot(aes(species, flipper_length_mm,
+             fill = sex, size = body_mass_g)) +
+  geom_jitter(shape = 21, colour = "grey", alpha = 0.8) +
+  scale_fill_viridis_d() +
+  theme_bw()
+```

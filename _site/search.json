@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to Riinu’s new website. It’s made in Quarto."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site demonstrates the use of Quarto."
+  },
+  {
+    "objectID": "penguins.html",
+    "href": "penguins.html",
+    "title": "Penguins",
+    "section": "",
+    "text": "This is a new page I’ve just added."
+  }
+]

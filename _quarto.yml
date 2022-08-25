@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Riinu's website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - penguins.qmd
+
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+    toc: true
+
+editor: visual
+

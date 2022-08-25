@@ -1,0 +1,5 @@
+---
+title: "Welcome"
+---
+
+Welcome to Riinu's new website. It's made in Quarto.
