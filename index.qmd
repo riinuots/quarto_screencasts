@@ -3,3 +3,6 @@ title: "Welcome"
 ---
 
 Welcome to Riinu's new website. It's made in Quarto.
+
+Instructions to create it are here: [https://quarto-workshop.netlify.app/](https://quarto-workshop.netlify.app/){.uri target="_blank"}\
+Its code can be viewed here: [https://github.com/riinuots/quarto_screencasts](https://github.com/riinuots/quarto_screencasts){.uri target="_blank"}

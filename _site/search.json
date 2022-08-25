@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Welcome to Riinu’s new website. It’s made in Quarto."
+    "text": "Instructions to create it are here: https://quarto-workshop.netlify.app/\nIts code can be viewed here: https://github.com/riinuots/quarto_screencasts"
   },
   {
     "objectID": "about.html",
